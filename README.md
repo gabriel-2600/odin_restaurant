@@ -16,3 +16,6 @@ Tools used:
 - Github
 
 Lessons Learned:
+
+Credits to the owners of the images used.
+nuuktaal, https://www.instagram.com/p/C0y01aCvHSC/
