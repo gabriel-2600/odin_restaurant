@@ -8,7 +8,7 @@
   align-items: center;
 }
 
-img {
+.display img {
   border-radius: 24px;
 }
 
@@ -24,7 +24,7 @@ h1 {
   color: var(--dark-brown);
 }
 
-p {
+.text-display p {
   font-size: 1.8rem;
   color: black;
 }
