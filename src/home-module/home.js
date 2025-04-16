@@ -21,7 +21,7 @@ export default function generateHome() {
 
   const description = document.createElement("p");
   description.textContent =
-    "Kusina is a fine dining restaurant beside the serene Taal Lake, blending Filipino flavors with Asian elegance. Kusina offers a modern take on tradition—celebrating the warmth, depth, and soul of Filipino flavors in every dish.";
+    "Kusina is a fine dining restaurant beside the serene Taal Lake, blending Filipino flavors with Asian elegance";
 
   textDiv.appendChild(headerOne);
   textDiv.appendChild(description);

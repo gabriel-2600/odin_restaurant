@@ -40,7 +40,7 @@ body {
 
 /* Header */
 header {
-  background-color: var(--dark-brown);
+  background-color: var(--pale-brown);
   padding: 20px 0;
   margin-bottom: 50px;
 }
@@ -54,12 +54,15 @@ nav > button {
   width: 100px;
   padding: 10px 0;
   font-size: 1.5rem;
-  background-color: var(--dark-brown);
+  background-color: var(--pale-brown);
   color: white;
   border: 0;
+  border-radius: 12px;
+  transition: 0.2s;
 }
 
 button:hover {
   cursor: pointer;
-  color: var(--lightest-brown);
+  background-color: var(--dark-brown);
+  transition: 0.2s;
 }
