@@ -9,8 +9,8 @@ export default function generateHome() {
   displayDiv.classList.add("display");
 
   const img = document.createElement("img");
-  img.setAttribute("width", "500px");
-  img.setAttribute("height", "500px");
+  img.setAttribute("width", "550px");
+  img.setAttribute("height", "650px");
   img.src = taalImage;
 
   const textDiv = document.createElement("div");
@@ -21,7 +21,7 @@ export default function generateHome() {
 
   const description = document.createElement("p");
   description.textContent =
-    "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione, autem quo commodi nihil explicabo totam nulla facere eos quos iste minima ducimus officia iure ex molestias blanditiis dolor omnis dignissimos!";
+    "Kusina is a fine dining restaurant beside the serene Taal Lake, blending Filipino flavors with Asian elegance. Kusina offers a modern take on tradition—celebrating the warmth, depth, and soul of Filipino flavors in every dish.";
 
   textDiv.appendChild(headerOne);
   textDiv.appendChild(description);
@@ -33,17 +33,3 @@ export default function generateHome() {
 
   return homePageDiv;
 }
-
-/* <div class="home-page">
-  <div class="display">
-    <img src="assets/taal.png" alt="Dining Area" />
-    <div class="text">
-      <h1>Kusina</h1>
-      <p>
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione, autem
-        quo commodi nihil explicabo totam nulla facere eos quos iste minima
-        ducimus officia iure ex molestias blanditiis dolor omnis dignissimos!
-      </p>
-    </div>
-  </div>
-</div>; */

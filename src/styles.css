@@ -15,10 +15,51 @@ body {
 }
 
 p {
-  text-wrap: pretty;
+  text-wrap: balance;
 }
 
 header {
   display: flex;
   justify-content: center;
+  align-items: center;
+}
+
+/* Variables */
+:root {
+  --dark-brown: #664229;
+  --pale-brown: #987554;
+  --lightest-brown: #e5d3b3;
+  --lighter-brown: #d2b48c;
+  --light-brown: #b99976;
+}
+
+/* Body */
+body {
+  background-color: var(--lightest-brown);
+}
+
+/* Header */
+header {
+  background-color: var(--dark-brown);
+  padding: 20px 0;
+  margin-bottom: 50px;
+}
+
+nav {
+  display: flex;
+  gap: 60px;
+}
+
+nav > button {
+  width: 100px;
+  padding: 10px 0;
+  font-size: 1.5rem;
+  background-color: var(--dark-brown);
+  color: white;
+  border: 0;
+}
+
+button:hover {
+  cursor: pointer;
+  color: var(--lightest-brown);
 }
