@@ -2,7 +2,7 @@
 
 Dynamic Restaurant Webpage made for the [Project: Restaurant Page of The Odin Project](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page)
 
-Live Preview:
+Live Preview: https://gabriel-2600.github.io/odin_restaurant/
 
 Tech Stack:
 
@@ -25,8 +25,8 @@ Lessons Learned:
 
 Credits:
 
-nuuktaal, https://www.instagram.com/p/C0y01aCvHSC/
-nuuktaal, https://www.instagram.com/p/DA68q9sOjVl/?hl=en
-jocooks, https://www.jocooks.com/wp-content/uploads/2021/04/chicken-adobo-1-13-750x975.jpg
-I Heart Umami, https://iheartumami.com/panda-express-beef-and-broccoli/
-Catherine Zhang, https://zhangcatherine.com/mango-float/
+- nuuktaal, https://www.instagram.com/p/C0y01aCvHSC/
+- nuuktaal, https://www.instagram.com/p/DA68q9sOjVl/?hl=en
+- jocooks, https://www.jocooks.com/wp-content/uploads/2021/04/chicken-adobo-1-13-750x975.jpg
+- I Heart Umami, https://iheartumami.com/panda-express-beef-and-broccoli/
+- Catherine Zhang, https://zhangcatherine.com/mango-float/
