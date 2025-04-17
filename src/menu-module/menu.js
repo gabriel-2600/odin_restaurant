@@ -69,26 +69,3 @@ export default function generateMenu() {
 
   return menuPageDiv;
 }
-
-/* <div class="menu-page">
-  <div class="menu-container">
-    <div class="menu-card">
-      <img
-        src="menu-module/menu-assets/beef.jpg"
-        alt="Beef"
-        width="300px"
-        height="300px"
-      />
-      <h3>Beef Brocolli</h3>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis fugiat
-        doloremque, commodi repudiandae fugit sapiente nostrum iusto laboriosam
-        maxime? Deserunt inventore animi asperiores ipsum, odit sint quia labore
-        accusantium exercitationem.
-      </p>
-    </div>
-    <div class="menu-card"></div>
-    <div class="menu-card"></div>
-    <div class="menu-card"></div>
-  </div>
-</div>; */
