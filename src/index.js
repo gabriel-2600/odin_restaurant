@@ -17,7 +17,7 @@ nav.addEventListener("click", (e) => {
         contentDiv.innerHTML = "";
         contentDiv.appendChild(generateHome());
         break;
-      case "Menu":
+      case "Specialties":
         contentDiv.innerHTML = "";
         contentDiv.appendChild(generateMenu());
         break;

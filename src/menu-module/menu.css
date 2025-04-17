@@ -7,16 +7,35 @@
 /* Menu Container */
 .menu-container {
   display: flex;
-  gap: 50px;
   flex-wrap: wrap;
+  justify-content: center;
+  gap: 50px;
 }
 
 /* Menu Card */
 .menu-card {
   display: flex;
+  border: 1px solid var(--dark-brown);
+  border-radius: 48px;
+  gap: 20px;
 }
 
-/* Image styles */
 .menu-card img {
   border-radius: 48px;
+}
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 500px;
+}
+
+h3 {
+  color: var(--dark-brown);
+  font-size: 2.2rem;
+}
+
+.text-container p {
+  font-size: 1.2rem;
 }
