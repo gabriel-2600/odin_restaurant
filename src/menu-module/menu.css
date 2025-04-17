@@ -1,0 +1,22 @@
+/* Menu Page */
+.menu-page {
+  display: flex;
+  justify-content: center;
+}
+
+/* Menu Container */
+.menu-container {
+  display: flex;
+  gap: 50px;
+  flex-wrap: wrap;
+}
+
+/* Menu Card */
+.menu-card {
+  display: flex;
+}
+
+/* Image styles */
+.menu-card img {
+  border-radius: 48px;
+}
